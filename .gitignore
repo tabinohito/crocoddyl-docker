@@ -1,0 +1,2 @@
+userdir/*
+!userdir/crocoddyl/*
