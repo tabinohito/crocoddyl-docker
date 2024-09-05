@@ -1,0 +1,6 @@
+[submodule ".irsl_docker_irsl_system"]
+	path = .irsl_docker_irsl_system
+	url = https://github.com/IRSL-tut/irsl_docker_irsl_system.git
+[submodule "userdir/crocoddyl"]
+	path = userdir/crocoddyl
+	url = https://github.com/loco-3d/crocoddyl.git
